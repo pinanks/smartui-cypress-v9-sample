@@ -1,0 +1,15 @@
+{
+  "name": "smartui-cypressv9-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lambdatest/cypress-driver": "file:../../lambdatest-js-sdk/packages/cypress",
+    "cypress": "^9.7.0"
+  }
+}
